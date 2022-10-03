@@ -1,2 +1,1 @@
-# Dive-into-code
-DiveIntoCode course 
+This is a task file
